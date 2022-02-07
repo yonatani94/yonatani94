@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yehonatan Aramy
 - 👀 I’m interested in development student position 
-- 🌱 I’m currently learning Third-year Software Engineering Student at Afeka Academic College
+- 🌱 I’m currently learning Four-year Software Engineering Student at Afeka Academic College
 - 📫 How to reach me by email : yonatani94@gmail.com
 
 <!---
